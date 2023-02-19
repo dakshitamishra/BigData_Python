@@ -1,0 +1,7 @@
+a=input()
+if(a>5):
+    print("Greater than 5")
+elif(a<5):
+    print("Lesser than 5")
+else:
+    print("equal to 5")
