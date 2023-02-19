@@ -4,3 +4,17 @@ a.append(1)
 print(a)
 #length
 print(len(a))
+
+
+#update lists
+b[1]="dak"
+print(b)
+
+#difference between append and extend
+list1=[]
+list2=[1,2,3]
+list3=[]
+list1.append(list2)
+print(list1)    #[[1, 2, 3]]
+list3.extend(list2)
+print(list3)    #[1, 2, 3]
