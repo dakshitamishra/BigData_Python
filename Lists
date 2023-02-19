@@ -1,0 +1,6 @@
+a=[]
+#Insertion
+a.append(1)
+print(a)
+#length
+print(len(a))
