@@ -21,3 +21,9 @@ print(a%b)
 
 #power calculation
 print(a**b)
+
+#string concatenation
+print("Dakshita" +"Mishra")
+
+#string multiply
+print("Dakshita "*5)
