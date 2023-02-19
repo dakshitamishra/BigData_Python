@@ -18,3 +18,8 @@ list1.append(list2)
 print(list1)    #[[1, 2, 3]]
 list3.extend(list2)
 print(list3)    #[1, 2, 3]
+
+
+
+#List slicing
+print(list2[0:1])
